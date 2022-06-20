@@ -9,6 +9,7 @@ public class RESTApiTest {
 		System.out.println("postJira2");
 		System.out.println("postJira3");
 		System.out.println("preJira3");
+		System.out.println("preJira4");
 	}
 	
 	@Test
