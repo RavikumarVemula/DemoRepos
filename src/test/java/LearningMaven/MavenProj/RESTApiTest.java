@@ -16,5 +16,7 @@ public class RESTApiTest {
 	public void deleteTwitter() {
 		System.out.println("AddTwitter");
 		System.out.println("deleteTwitter");
+		System.out.println("preJira5");
+		System.out.println("postJira4");
 	}
 }
